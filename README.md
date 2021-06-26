@@ -2,8 +2,8 @@
 My VIM configuration.
 
 
-Remember to install vim-plug
-[https://github.com/junegunn/vim-plug](Vim-Plug site)
+Remember to install vim-plug:
+[Link to the github](https://github.com/junegunn/vim-plug)
 
 
 ### Here are the commmands to install
