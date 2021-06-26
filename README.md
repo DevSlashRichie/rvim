@@ -1,12 +1,29 @@
-# rvim
-My VIM configuration.
+# rvim - Ricardo's Vim Default Configuration.
 
+My VIM configuration.
+Here is my default configuration for vim.
+
+
+I am pretty sure that if you are here, you know how setup all this.
+
+## Instructions to use it
+
+ 1. Download it with the command below.
+ 2. Install Vim-Plug with the command a little bit more below.
+ 3. Run the command at the end inside vim.
+
+Download it into $HOME with the following command:
+
+```sh
+$ curl https://raw.githubusercontent.com/RicardormDev/rvim/main/.vimrc -o .vimrc
+```
 
 Remember to install vim-plug:
 [Link to the github](https://github.com/junegunn/vim-plug)
 
 
 ### Here are the commmands to install
+Note: Yea, I stole this from the Vim-Plug site to make a resume :)
 
 [Download plug.vim](https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim)
 and put it in the "autoload" directory.
