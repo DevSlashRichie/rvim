@@ -15,7 +15,8 @@ I am pretty sure that if you are here, you know how setup all this.
 Download it into $HOME with the following command:
 
 ```sh
-$ curl https://raw.githubusercontent.com/RicardormDev/rvim/main/.vimrc -o .vimrc
+curl https://raw.githubusercontent.com/RicardormDev/rvim/main/.vimrc -o .vimrc;
+mkdir -p ~/.config/nvim && echo source ~/.vimrc >> ~/nvim/init.vim
 ```
 
 Remember to install vim-plug:
